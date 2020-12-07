@@ -1,0 +1,10 @@
+.copyright-text {
+    display: flex;
+    justify-content: center;
+}
+
+.copyright-text p {
+    font-size: 15px;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
